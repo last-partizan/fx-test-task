@@ -1,0 +1,27 @@
+{
+  "fields": [
+    ["tariff", "Тариф"],
+    ["location", "Страна"],
+    ["status", "Статус"]
+  ],
+  "results": [
+    {
+      "pk": 433,
+      "tariff": "SSD Cloud 1GB",
+      "location": "US",
+      "status": "active"
+    },
+    {
+      "pk": 434,
+      "tariff": "SSD Cloud 2GB",
+      "location": "US",
+      "status": "active"
+    },
+    {
+      "pk": 438,
+      "tariff": "SSD Cloud 32GB",
+      "location": "NL",
+      "status": "expired"
+    }
+  ]
+}
